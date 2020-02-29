@@ -1,5 +1,14 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Подрезка](podrezka.md)
+
+## Удары
+
+* [Скидка](udary/skidka.md)
+* [Топ-спин](udary/top-spin.md)
+* [Подрезка](udary/podrezka.md)
+
+## Приём подач
+
+* [Боковое вращение](priyom-podach/bokovoe-vrashenie.md)
 
