@@ -7,6 +7,7 @@
 * [Скидка](udary/skidka.md)
 * [Топ-спин](udary/top-spin.md)
 * [Подрезка](udary/podrezka.md)
+* [Банан](udary/banan.md)
 
 ## Приём подач
 
